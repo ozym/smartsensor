@@ -1,0 +1,2 @@
+# smartsensor
+Smart sensor scripts
