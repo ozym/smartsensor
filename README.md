@@ -2,7 +2,7 @@
 
 Convert a RaspberryPi into a smart sensor relay.
 * setup the __slip__ connection via the network interface file
-* setup the __relay__ by adding the xinetd.d sensor file, which equires the `xinetd` package.
+* setup the __relay__ by installing the `xinetd` package and adding the xinetd.d sensor file.
 * edit the __relay__ file to set the sensor IP.
 * restart the `network` and `xinetd` services or `reboot`
 
